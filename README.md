@@ -8,14 +8,14 @@
 - [EDA](#eda)
 - [Data Analysis](#data-analysis)
 - [Insights](#insights)
-- [Recommendation](#recommendations)
+- [Recommendation](#recommendation)
 
 ### Project Overview
 ---
 
 This data analysis aims to understand the trend of road accident, contributing factors, the type of  vehicle involved and casualities based on trends and weather conditions. By analysing various aspects of the data, we identified trends, make data driven recommendations, and gained a deeper understanding on road accident occurance and frequency within the region..
 
-
+![Screenshot (5)](https://github.com/OgechukwuLily/Road-Accident-Analysis/assets/160866623/9b1cfdbd-68de-46d5-96fe-41942f2a138c)
 
 ### Data Sources
 Road-Accidents: The primary dataset used for tis analysis is the 'Road Accident Data Data.xlsx'file containing detailed information about Road accident in the region.
